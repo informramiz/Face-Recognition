@@ -2,6 +2,8 @@
 
 Face Recognition algorithm written in C++ using OpenCV and LBP classifier, for Windows.
 
+![live demo](animated.gif)
+
 ## Getting Started
 
 ```
